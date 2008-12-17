@@ -1,0 +1,3 @@
+textmate.el:
+  repo: git://github.com/defunkt/textmate.el.git
+  path: vendor
