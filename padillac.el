@@ -15,6 +15,7 @@
 ;(load "padillac/temp_files")
 ;(load "padillac/github")
 ;(load "padillac/git")
+(load "padillac/window-number")
  
 ;(vendor 'cheat)
 ;(vendor 'magit)
