@@ -2,3 +2,4 @@ auto-save-list
 vendor/textmate.el
 vendor/yasnippet.el
 vendor/rspec-mode.el
+vendor/magit

@@ -18,7 +18,7 @@
 (load "padillac/sweet-editing")
  
 ;(vendor 'cheat)
-;(vendor 'magit)
+(vendor 'magit)
 ;(vendor 'gist)
 ;(vendor 'growl)
 ;(vendor 'twittering-mode)

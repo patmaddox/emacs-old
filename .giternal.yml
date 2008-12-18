@@ -7,3 +7,6 @@ yasnippet.el:
 rspec-mode.el:
   repo: git@github.com:pat-maddox/rspec-mode.el.git
   path: vendor
+magit:
+  repo: git://github.com/technomancy/magit.git
+  path: vendor
