@@ -1,4 +1,3 @@
-(add-to-list 'default-frame-alist '(font . "-apple-monaco-medium-r-normal--16-120-72-72-m-120-iso10646-1"))
 (fset 'yes-or-no-p 'y-or-n-p)
 (transient-mark-mode t)
 (show-paren-mode t)
