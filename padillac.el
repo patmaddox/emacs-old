@@ -23,4 +23,5 @@
 ;(vendor 'growl)
 ;(vendor 'twittering-mode)
 (vendor 'textmate)
+(vendor 'yasnippet)
 (textmate-mode)
