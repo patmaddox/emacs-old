@@ -6,17 +6,13 @@
  
 (when (file-exists-p ".passwords") (load ".passwords"))
  
-;(load "padillac/lisp")
 (load "padillac/global")
 (load "padillac/defuns")
-;(load "padillac/bindings")
-;(load "padillac/modes")
 (load "padillac/theme")
 (load "padillac/temp-files")
-;(load "padillac/github")
-;(load "padillac/git")
 (load "padillac/sweet-editing")
 (load "padillac/shell")
+(load "padillac/ecb")
  
 ;(vendor 'cheat)
 (vendor 'magit)
