@@ -10,3 +10,6 @@ rspec-mode.el:
 magit:
   repo: git://gitorious.org/magit/mainline.git
   path: vendor
+gist:
+  repo: git://github.com/defunkt/gist.el.git
+  path: vendor

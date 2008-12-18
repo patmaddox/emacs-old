@@ -20,7 +20,7 @@
  
 ;(vendor 'cheat)
 (vendor 'magit)
-;(vendor 'gist)
+(vendor 'gist)
 ;(vendor 'growl)
 ;(vendor 'twittering-mode)
 (vendor 'window-number)

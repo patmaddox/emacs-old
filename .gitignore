@@ -3,3 +3,4 @@ vendor/textmate.el
 vendor/yasnippet.el
 vendor/rspec-mode.el
 vendor/magit
+vendor/gist
