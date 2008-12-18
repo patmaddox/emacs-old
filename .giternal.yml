@@ -4,3 +4,6 @@ textmate.el:
 yasnippet.el:
   repo: git@github.com:pat-maddox/yasnippet.el.git
   path: vendor
+rspec-mode.el:
+  repo: git@github.com:pat-maddox/rspec-mode.el.git
+  path: vendor
