@@ -20,6 +20,5 @@
 (vendor 'gist)
 (vendor 'window-number)
 (vendor 'textmate)
-(vendor 'yasnippet)
 (vendor 'rspec-mode)
 (textmate-mode)

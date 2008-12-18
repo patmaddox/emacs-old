@@ -1,3 +1,5 @@
+(vendor 'yasnippet)
+
 ;; others
 (load "padillac/shell")
 (load "padillac/javascript")
