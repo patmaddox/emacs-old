@@ -13,3 +13,6 @@ magit:
 gist:
   repo: git://github.com/defunkt/gist.el.git
   path: vendor
+cheat.el:
+  repo: git://github.com/defunkt/cheat.el.git
+  path: vendor

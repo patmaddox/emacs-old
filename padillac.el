@@ -14,7 +14,7 @@
 (load "padillac/shell")
 (load "padillac/ecb")
  
-;(vendor 'cheat)
+(vendor 'cheat)
 (vendor 'magit)
 (vendor 'gist)
 ;(vendor 'growl)

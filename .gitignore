@@ -4,3 +4,4 @@ vendor/yasnippet.el
 vendor/rspec-mode.el
 vendor/magit
 vendor/gist
+vendor/cheat.el
