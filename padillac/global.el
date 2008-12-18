@@ -9,5 +9,6 @@
 (setq default-tab-width 2)
 (setq tab-width 2)
 (setq backward-delete-char-untabify nil)
+(global-auto-revert-mode t)
 
 (server-start)
