@@ -1,6 +1,7 @@
 ;; others
 (load "padillac/shell")
 (load "padillac/javascript")
+(load "padillac/ruby")
  
 ; magit
 (eval-after-load 'magit
