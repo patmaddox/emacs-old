@@ -16,6 +16,7 @@
 ;(load "padillac/github")
 ;(load "padillac/git")
 (load "padillac/sweet-editing")
+(load "padillac/shell")
  
 ;(vendor 'cheat)
 (vendor 'magit)
