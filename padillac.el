@@ -23,4 +23,5 @@
 (vendor 'textmate)
 (vendor 'yasnippet)
 (vendor 'rspec-mode)
+(vendor 'js2-mode)
 (textmate-mode)
