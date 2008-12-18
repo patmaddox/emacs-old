@@ -12,7 +12,7 @@
 ;(load "padillac/bindings")
 ;(load "padillac/modes")
 ;(load "padillac/theme")
-;(load "padillac/temp_files")
+(load "padillac/temp-files")
 ;(load "padillac/github")
 ;(load "padillac/git")
 (load "padillac/sweet-editing")
