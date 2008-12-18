@@ -2,5 +2,5 @@ textmate.el:
   repo: git@github.com:pat-maddox/textmate.el.git
   path: vendor
 yasnippet.el:
-  repo: ~/code/yasnippet.el
+  repo: git@github.com:pat-maddox/yasnippet.el.git
   path: vendor
