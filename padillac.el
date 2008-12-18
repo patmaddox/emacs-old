@@ -8,6 +8,7 @@
  
 (load "padillac/global")
 (load "padillac/defuns")
+(load "padillac/bindings")
 (load "padillac/theme")
 (load "padillac/temp-files")
 (load "padillac/sweet-editing")
