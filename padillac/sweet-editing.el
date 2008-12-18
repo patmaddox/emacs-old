@@ -1,4 +1,5 @@
 (define-key global-map (kbd "C-S-k") 'kill-whole-line)
+(global-set-key (kbd "C-S-j") 'join-line)
 
 (defun duplicate-line()
   "Duplicate the current line"
