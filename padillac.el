@@ -12,7 +12,7 @@
 (load "padillac/temp-files")
 (load "padillac/sweet-editing")
 (load "padillac/modes")
-;(load "padillac/ecb")
+(load "padillac/ecb")
  
 (vendor 'cheat)
 (vendor 'magit)

@@ -16,3 +16,6 @@ gist:
 cheat.el:
   repo: git://github.com/defunkt/cheat.el.git
   path: vendor
+ecb:
+  repo: git://github.com/pat-maddox/ecb.git
+  path: vendor
