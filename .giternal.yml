@@ -7,6 +7,9 @@ yasnippet.el:
 rspec-mode.el:
   repo: git@github.com:pat-maddox/rspec-mode.el.git
   path: vendor
+cucumber.el:
+  repo: git@github.com:pat-maddox/cucumber.el.git
+  path: vendor
 magit:
   repo: git://gitorious.org/magit/mainline.git
   path: vendor

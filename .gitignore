@@ -6,3 +6,4 @@ vendor/magit
 vendor/gist
 vendor/cheat.el
 vendor/ecb
+vendor/cucumber.el
