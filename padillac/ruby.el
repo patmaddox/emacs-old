@@ -1,3 +1,5 @@
+(require 'ruby-mode)
+(require 'ruby-electric)
 ;;; nxml (HTML ERB template support)
 (load "~/.emacs.d/vendor/nxhtml/autostart.el")
 
@@ -16,6 +18,7 @@
 (setq auto-mode-alist (cons '("Rakefile" . ruby-mode) auto-mode-alist))
 (setq auto-mode-alist (cons '("Capfile" . ruby-mode) auto-mode-alist))
 (setq auto-mode-alist (cons '("\\.rake" . ruby-mode) auto-mode-alist))
+(add-hook 'ruby-mode-hook 'ruby-electric-mode)
 
 ; cucumber!
 (load "~/.emacs.d/vendor/cucumber.el/cucumber-mode.el")
