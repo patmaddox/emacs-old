@@ -10,3 +10,9 @@
      ((file-exists-p suffix) (require library)))
     (when (file-exists-p (concat padillac ".el"))
       (load padillac))))
+
+(defun kill-buffers-in-project (base)
+  "Kill buffers that are part of the given project"
+  (mapcar 'kill-buffer
+          (select (buffer-list)
+                  (lambda (b) (string-includes-p (buffer-file-name b) base)))))

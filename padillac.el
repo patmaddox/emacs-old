@@ -6,6 +6,7 @@
  
 (when (file-exists-p ".passwords") (load ".passwords"))
  
+(load "padillac/lisp")
 (load "padillac/global")
 (load "padillac/defuns")
 (load "padillac/bindings")
