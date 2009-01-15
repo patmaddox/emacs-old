@@ -13,6 +13,7 @@
 
 (defun kill-buffers-in-project (base)
   "Kill buffers that are part of the given project"
+  (interactive "D")
   (mapcar 'kill-buffer
           (select (buffer-list)
-                  (lambda (b) (string-includes-p (buffer-file-name b) base)))))
+                  (lambda (b) (string-includes-p (buffer-file-name b) (expand-file-name base))))))
